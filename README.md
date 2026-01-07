@@ -6,7 +6,7 @@ Analyzed adverse event data from FAERS to create figures for poster presentation
 ## Folder Structure
 - `notebooks/` - Jupyter notebooks for data cleaning and analysis
 - `data/` - Sample dataset used
-- `figures/` - Output plots and figures
+- `figures/` - Output plots
 - `requirements.txt` - Python dependencies
 
 ## How to Run
