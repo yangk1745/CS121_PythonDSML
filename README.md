@@ -1,7 +1,10 @@
 # FAERS Adverse Event Analysis using NLP and Python Poster
 
 ## Project Overview
-Analyzed adverse event data from FAERS to create figures for poster presentation. Demonstrates data cleaning, analysis, and visualization using Python and Jupyter notebooks.
+This project analyzes adverse event data from the U.S. Food and Drug Administration (FDA) Adverse Event Reporting System (FAERS) to generate figures for a scientific poster. The analysis demonstrates data cleaning, preprocessing, exploratory analysis, and visualization using Python/Jupyter notebooks/pandas/numpy/matplotlib/seaborn, with a focus on glucagon-like peptide-1 (GLP-1) receptor agonists.
+
+## Data Souurce
+Data were obtained from the FDA FAERS (FDA Adverse Event Reporting System) Public Dashboard and filtered to include reports involving all GLP-1 receptor agonists. FAERS is a spontaneous reporting system that contains adverse event reports submitted by healthcare professionals, manufacturers, and consumers. (Note: FAERS data are subject to reporting bias, duplication, and missingness and are intended for signal detection rather than incidence estimation.)
 
 ## Folder Structure
 - `notebooks/` - Jupyter notebooks for data cleaning and analysis
